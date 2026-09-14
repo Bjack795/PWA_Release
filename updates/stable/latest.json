@@ -1,0 +1,23 @@
+{
+    "schema":  2,
+    "channel":  "stable",
+    "version":  "2.0.1",
+    "platform":  "windows-x64",
+    "released_at":  "2026-09-14T13:49:00Z",
+    "notes":  "Aggiunte funzionalità di annotazione delle immagini",
+    "artifact":  {
+                     "url":  "https://github.com/Bjack795/PWA_Release/releases/download/v2.0.1/VerbaleIspezione-2.0.1-win-x64.viupdate",
+                     "filename":  "VerbaleIspezione-2.0.1-win-x64.viupdate",
+                     "size":  5252854,
+                     "sha256":  "c9655558d8a02e5ea0bee36de38bb30807886574ee2ece9fa677722964b26f74",
+                     "encryption":  {
+                                        "algorithm":  "AES-256-GCM",
+                                        "key_id":  "verbale-ispezione-508e5672c919bd13"
+                                    },
+                     "signature":  {
+                                       "algorithm":  "Ed25519",
+                                       "scope":  "artifact-v1",
+                                       "value":  "6ZXD59oKU7mY9j/Uv4UL+8HqZhCYcGfQXBTzE6AHorTylKxTobzxbN/7VKm39+aC3GnDlF7yiv6G5W6/TOmyDQ=="
+                                   }
+                 }
+}
