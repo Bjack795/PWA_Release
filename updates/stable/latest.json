@@ -1,15 +1,15 @@
 {
     "schema":  3,
     "channel":  "stable",
-    "version":  "2.0.5",
+    "version":  "2.0.6",
     "platform":  "windows-x64",
-    "released_at":  "2026-10-26T10:46:26Z",
-    "notes":  "inseriti campi obbligatori",
+    "released_at":  "2026-10-27T08:57:54Z",
+    "notes":  "Migrazione repository a RedescoProgettiSoftware; aggiornamenti compatibili con le build esistenti.",
     "artifact":  {
-                     "url":  "https://github.com/Bjack795/PWA_Release/releases/download/v2.0.5/VerbaleIspezione-2.0.5-win-x64.viupdate",
-                     "filename":  "VerbaleIspezione-2.0.5-win-x64.viupdate",
+                     "url":  "https://github.com/RedescoProgettiSoftware/PWA_Release/releases/download/v2.0.6/VerbaleIspezione-2.0.6-win-x64.viupdate",
+                     "filename":  "VerbaleIspezione-2.0.6-win-x64.viupdate",
                      "size":  15800356,
-                     "sha256":  "b9a599bdd8feaa0a07517970f5dba5bb1744f094dffd1a549b39bcb69035fde7",
+                     "sha256":  "5cfacc4efbb8ed3cb70f839fcd58dcca72ecc69ed22cae9a2709854aa6a44ec9",
                      "encryption":  {
                                         "algorithm":  "AES-256-GCM",
                                         "key_id":  "verbale-ispezione-508e5672c919bd13"
@@ -17,7 +17,7 @@
                      "signature":  {
                                        "algorithm":  "Ed25519",
                                        "scope":  "artifact-v1",
-                                       "value":  "hbfwiN6CioWhdjR1pKdp9x83toAdBeZkAakrUUL6thtrNYNAi90E55ZNPa8JfNmwURQSGyhU4f9InVWoMvzLCA=="
+                                       "value":  "FBeIKstwww+8DO13b1C/qRD7kMCfYDIpzVEzbS0/IJYuqN+5SyjVhNRkbEWnbIlt1rT99s9Vtppp2D5a+IjfCw=="
                                    }
                  }
 }
